@@ -11,6 +11,7 @@ description = """
 The FIGlet libraries all the cool kids use
 """
 keywords = ["figlet", "ascii", "asciiart", "neofiglet"]
+categories = ["command-line-interface"]
 exclude = [
     "resources/*",
 ]
