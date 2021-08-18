@@ -1,17 +1,16 @@
 [package]
-name = "figlet-rs"
-version = "0.1.3"
-authors = ["yuanbohan <yuanbo.han@gmail.com>"]
+name = "neofiglet"
+version = "0.1.0"
+authors = ["Lars Quentin <lars@lquenti.de>"]
 license = "Apache-2.0"
 edition = "2018"
 readme = "README.md"
-homepage = "https://github.com/yuanbohan/rs-figlet"
-repository = "https://github.com/yuanbohan/rs-figlet"
+homepage = "https://github.com/lquenti/neofiglet"
+repository = "https://github.com/lquenti/neofiglet"
 description = """
-Rust implementation of [FIGlet](http://www.figlet.org/) to create ascii art
+The FIGlet libraries all the cool kids use
 """
-keywords = ["figlet", "ascii"]
-categories = ["no-std"]
+keywords = ["figlet", "ascii", "asciiart", "neofiglet"]
 exclude = [
     "resources/*",
 ]
