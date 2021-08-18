@@ -8,7 +8,7 @@
 //! convert string literal using standard or specified font:
 //!
 //! ```
-//! use figlet_rs::FIGfont;
+//! use neofiglet::FIGfont;
 //!
 //! let standard_font = FIGfont::standand().unwrap();
 //! let figure = standard_font.convert("FIGlet");
