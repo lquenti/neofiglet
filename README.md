@@ -5,6 +5,14 @@
 
 The [FIGlet](http://www.figlet.org/) library all the cool kids use!
 
+# Note (Pretty important)
+
+This is currently in a full rewrite since this is easier than hack good kerning into this version. (See [#3](https://github.com/lquenti/neofiglet/issues/3))
+
+Therefore, the API __will__ completely break within the next few weeks as I will release a `1.0.0`.
+
+I mean, this is not a problem as this version is feature-complete, just that if you can wait a few weeks... good stuff will come.
+
 # Example
 
 ```rust
