@@ -11,7 +11,7 @@ The [FIGlet](http://www.figlet.org/) library all the cool kids use!
 use neofiglet::FIGfont;
 
 fn main() {
-    let standard_font = FIGfont::standand().unwrap();
+    let standard_font = FIGfont::standard().unwrap();
     let figure = standard_font.convert("Hello Rust");
     assert!(figure.is_some());
     println!("{}", figure.unwrap());
